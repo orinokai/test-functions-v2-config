@@ -3,5 +3,5 @@ export default () => {
 }
 
 export const config = {
-  path: "/works"
+  path: "/*"
 }
